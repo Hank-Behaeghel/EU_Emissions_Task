@@ -1,0 +1,1 @@
+This repo contains code from a data analysis assignment during recruitment for an RA position. The task involved analyzing EU emmissions data. The questions outlined by the task are commented as objective throughout the code.
